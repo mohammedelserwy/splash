@@ -30,7 +30,7 @@ class Root extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      pageIndex: 0,
+ 
       ref: React.createRef(null),
     };
   }
